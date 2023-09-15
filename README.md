@@ -1,2 +1,3 @@
 # Classification-of-vehicular-motion-trajectories-in-a-traffic-video
 Vehicle trajectory classification is an essential task in various applications, including traffic management, autonomous driving, and transportation analysis. It involves categorizing the movement patterns and paths followed by vehicles on road networks. There are several ways to classify vehicle trajectories, depending on the criteria and objectives of the classification. 
+![Screenshot (4)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/04d8d85d-6458-4e9f-8781-699b4ba40f31)
