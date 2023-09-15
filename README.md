@@ -31,6 +31,7 @@ Insert video here
 # Polynomial fitting
 
 ![Screenshot (15)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/917fa890-6688-4703-95a3-1f1627be25e8)
+
 # Using UNET
 For better results i have tried with UNET,it can be seen in following videos
 
