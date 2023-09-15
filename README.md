@@ -25,3 +25,9 @@ Insert video here
 ## Shadow edge removal by traversing method
 
 ![Screenshot (13)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/6551a6ff-54d2-4d45-a290-c3798bb204b8)
+# Tracking
+
+![Screenshot (14)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/07fce803-fb1f-443e-9330-1d422fde0a44)
+# Polynomial fitting
+
+![Screenshot (15)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/917fa890-6688-4703-95a3-1f1627be25e8)
