@@ -13,7 +13,8 @@ Segmentation has been done three phases
 
 Insert video here
 ## Vehicle detection
-![Screenshot (6)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/4bb99f52-af52-4883-9dad-0728ecfa7648)
+![Screenshot (6)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/76a49754-9351-4cb2-bd05-410eb20e711d)
+
 ## Shadow detection and removal
 ![Screenshot (7)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/800e4547-9a58-4e42-93be-2ee6d13cb395)
 
