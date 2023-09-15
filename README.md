@@ -36,7 +36,10 @@ Insert video here
 For better results i have tried with UNET,it can be seen in following videos
 
 
-<iframe width="560" height="315" src="https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/12edef3d-b739-452a-b45a-36d3aab9c6b2" frameborder="0" allowfullscreen></iframe>
+
+
+https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/763722d7-ed0b-49f4-b442-c6f6ea7b897b
+
 
 
 
