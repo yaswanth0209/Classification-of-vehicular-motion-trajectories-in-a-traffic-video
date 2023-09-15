@@ -15,5 +15,6 @@ Insert video here
 ## Vehicle detection
 ![Screenshot (6)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/4bb99f52-af52-4883-9dad-0728ecfa7648)
 ## Shadow detection and removal
-![Screenshot (7)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/1295765d-![Screenshot (8)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/997b418d-6108-4074-a2b9-e808f17fb182)
+![Screenshot (7)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/1295765d-
+![Screenshot (8)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/997b418d-6108-4074-a2b9-e808f17fb182)
 f94a-42b2-b26b-c14d0eada2cb)
