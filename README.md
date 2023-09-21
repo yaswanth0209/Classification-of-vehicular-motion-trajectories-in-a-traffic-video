@@ -10,10 +10,14 @@ Segmentation has been done three phases
 ## Background detection
 ==> Histogram based approach
 ![Screenshot (5)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/Screenshot%20(5).png)
-<video width="320" height="240" controls autoplay loop>
-  <source src="https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Videos/unet_34_500.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+
+
+https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/da4f39f0-3e17-4ef2-827c-25c3bab6ad4d
+#Detected background image form above video
+
+
 
 
 ## Vehicle detection
