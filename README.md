@@ -9,7 +9,7 @@ Segmentation has been done three phases
 3)Shadow detection and removal
 ## Background detection
 ==> Histogram based approach
-![Screenshot (5)](C:\Users\user\Source\Repos\Classification-of-vehicular-motion-trajectories-in-a-traffic-video\Images\Screenshot (5).png)
+![Screenshot (5)](Classification-of-vehicular-motion-trajectories-in-a-traffic-video\Images\Screenshot (5).png)
 
 Insert video here
 ## Vehicle detection
