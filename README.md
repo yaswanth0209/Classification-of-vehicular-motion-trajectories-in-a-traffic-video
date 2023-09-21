@@ -38,13 +38,3 @@ Segmentation has been done three phases
 
 # Using UNET
 For better results i have tried with UNET,it can be seen in following videos
-https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Videos/unet_34_500.mp4
-
-
-https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/18de1572-53fa-4f49-bbad-9720fc59fe1e
-
-
-
-https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/f5a0befb-9e70-4b83-876a-d37c22c0dccc
-
-![test](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/f5a0befb-9e70-4b83-876a-d37c22c0dccc)
