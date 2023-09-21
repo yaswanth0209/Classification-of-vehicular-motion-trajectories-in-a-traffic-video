@@ -42,8 +42,7 @@ For better results i have tried with UNET,it can be seen in following videos
 
 
 
-https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/763722d7-ed0b-49f4-b442-c6f6ea7b897b
-
+https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Videos/unet_34_500.mp4
 
 
 
