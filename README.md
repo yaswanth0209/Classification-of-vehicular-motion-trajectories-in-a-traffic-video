@@ -30,6 +30,10 @@ Segmentation has been done three phases
     </td>
   </tr>
 </table>
+| Video | Image |
+| --- | --- |
+| [![Video](Videos/unet_34_500.mp4)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Videos/unet_34_500.mp4) | ![Image](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/Screenshot%20(10).png) |
+
 
 ## Vehicle detection
 
