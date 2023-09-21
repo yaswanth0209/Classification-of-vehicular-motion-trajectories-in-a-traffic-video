@@ -10,26 +10,6 @@ Segmentation has been done three phases
 ## Background detection
 ==> Histogram based approach
 ![Screenshot (5)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/Screenshot%20(5).png)
-
-<table>
-  <tr>
-    <td>
-
-<!-- Embed the video using an HTML video element -->
-<video width="320" height="240" controls>
-  <source src="https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Videos/unet_34_500.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-    </td>
-    <td>
-
-<!-- Display the image using an HTML img element -->
-<img src="https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/Screenshot%20(6).png" alt="Image Description">
-
-    </td>
-  </tr>
-</table>
 <p align="center">
   <img src="https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/raw/main/Images/Screenshot%20(6).png" alt="Image Description" width="400" height="300" />
   &emsp;
@@ -37,6 +17,17 @@ Segmentation has been done three phases
     Your browser does not support the video tag.
   </video>
 </p>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+[https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Videos/unet_34_500.mp4]
+</td>
+<td align="left" valign="top" width="50%">
+[https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Videos/unet_34_tracking_500.mp4]
+</td
+</tr>
+</table>
 
 
 
