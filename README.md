@@ -12,9 +12,8 @@ Segmentation has been done three phases
 ![Screenshot (5)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/Screenshot%20(5).png)
 
 
+https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/aa5e8951-8c78-4e61-87ca-b64ae256293b
 
-
-https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/da4f39f0-3e17-4ef2-827c-25c3bab6ad4d
 #Detected background image form above video
 
 
@@ -36,6 +35,16 @@ https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-
 # Tracking
 
 ![Screenshot (14)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/Screenshot%20(14).png)
+
+
+https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/b7b3c3f5-057f-4e71-85c0-e19687515da1
+
+
+
+https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/09e5530a-c849-4972-acad-6d09eb6ea69e
+
+
+
 # Polynomial fitting
 
 ![Screenshot (15)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/Screenshot%20(15).png)
@@ -45,9 +54,8 @@ For better results i have tried with UNET,it can be seen in following videos
 
 
 
-https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/255851db-a1b4-43bd-a3fa-bb82e2e6877f
+https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/986c592d-33a6-4109-8fe9-635af1defe28
 
 
-
-https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/1a0db030-f44e-4426-9980-637646f264b7
+https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/3af30648-f73f-4417-b757-d72e2479e25d
 
