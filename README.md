@@ -15,6 +15,7 @@ Segmentation has been done three phases
   Your browser does not support the video tag.
 </video>
 
+![background_rgb](C:\Users\user\Source\Repos\Classification-of-vehicular-motion-trajectories-in-a-traffic-video\Images\background_rgb.jpg)
 
 ## Vehicle detection
 
