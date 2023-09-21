@@ -18,7 +18,7 @@ https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-
 
 
 
-![background_rgb](C:\Users\user\Source\Repos\Classification-of-vehicular-motion-trajectories-in-a-traffic-video\Images\background_rgb.jpg)
+![background_rgb](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/background_rgb.jpg)
 
 ## Vehicle detection
 
