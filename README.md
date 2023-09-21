@@ -11,7 +11,27 @@ Segmentation has been done three phases
 ==> Histogram based approach
 ![Screenshot (5)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/Screenshot%20(5).png)
 
-Insert video here
+<table>
+  <tr>
+    <td>
+
+<!-- Embed the video using an HTML video element -->
+<video width="320" height="240" controls>
+  <source src="https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/763722d7-ed0b-49f4-b442-c6f6ea7b897b
+" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+    </td>
+    <td>
+
+<!-- Display the image using an HTML img element -->
+<img src="https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/Screenshot%20(6).png" alt="Image Description">
+
+    </td>
+  </tr>
+</table>
+
 ## Vehicle detection
 
 ![Screenshot (6)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/Screenshot%20(6).png)
