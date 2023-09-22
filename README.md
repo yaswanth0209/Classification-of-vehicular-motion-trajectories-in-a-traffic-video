@@ -40,7 +40,7 @@ To remove this shadow edge for each vehicle traverse from right to left or left 
 ![Screenshot (13)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/Screenshot%20(13).png)
 # Tracking
 
-![Screenshot (14)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/Screenshot%20(14).png)
+![Screenshot (16)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/87336a49-106b-49a9-a97d-5696b91f3d3f)
 
 
 https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/b7b3c3f5-057f-4e71-85c0-e19687515da1
