@@ -42,13 +42,15 @@ To remove this shadow edge for each vehicle traverse from right to left or left 
 
 ![Screenshot (16)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/87336a49-106b-49a9-a97d-5696b91f3d3f)
 
+With the help of above flowchart track each segmented vehicle after shadow removal and labell each vehicle with unique number the results are shown in below video's,this videos shown are for upto first 500 frames of the original video
+
 
 https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/b7b3c3f5-057f-4e71-85c0-e19687515da1
 
-
+The above video show's the tracking of each vehicle with different numbering.
 
 https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/09e5530a-c849-4972-acad-6d09eb6ea69e
-
+In this above video each vehicles centroid has been marked with different colour and has been tracked for all existing frames.
 
 
 # Polynomial fitting
