@@ -3,12 +3,12 @@ Vehicle trajectory classification is an essential task in various applications, 
 ![Screenshot (4)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/Screenshot%20(4).png)
 As first phase of this project tracking has been done.
 # Segmentation
-Segmentation has been done three phases
-1)Background detection
-2)Vehicle Detection
-3)Shadow detection and removal
+ Segmentation involves dividing an image into multiple regions or segments, where each segment represents a distinct object(here it is an individual vehicle) or region of interest. In this project segmentation has been done in three phases
+1. Background detection
+2. Vehicle Detection
+3. Shadow detection and shadow removal
 ## Background detection
-==> Histogram based approach
+Background detection is used to identify and separate the background in an image or video from the foreground objects or subjects.Here for background detection "Histogram based" approach is used,in this method histogram of each pixel with respect to their respective locations through out video is calculated.With the help of these histograms background image has been detected,below the flow diagram for this approach,input video and extracted background image are presented
 ![Screenshot (5)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/Screenshot%20(5).png)
 
 
