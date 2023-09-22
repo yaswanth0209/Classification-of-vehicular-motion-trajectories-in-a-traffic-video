@@ -21,16 +21,21 @@ https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-
 ![background_rgb](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/background_rgb.jpg)
 
 ## Vehicle detection
+Using substraction method vehicles or objects have been detected,for this substract each frame of the video with the detected background image,below we can see the detected vehicles. In this detected vehicles Shadow has been detected as the vehicles body wich creates a false values during tracking.
 
 ![Screenshot (6)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/Screenshot%20(6).png)
 
 ## Shadow detection and removal
+To detect the shadow from the segmented vehicles "Optical Gain matrix" has been calculated which is the fraction of current frame's gray image to the detected background image's gray image.From this optical gain matrix and by the segmented vehicles shadow part of each vehicle has been detected
 
 ![Screenshot (10)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/Screenshot%20(10).png)
+
+Once the shadow part has been detected remove it from respective segmented vehicles.We ended with an image of segmented vehicles along with shadow edge wich create same false values as previous during tracking.
 
 ![Screenshot (11)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/Screenshot%20(11).png)
 
 ## Shadow edge removal by traversing method
+To remove this shadow edge for each vehicle traverse from right to left or left to right inside respective bounding box if there is a change in pixel values from 1--> 0 -->1 treat initiall one's as shadow eddge part and assigned with zeros similarly while traversing from right to left if there is a change in pixel values from 1--> 0 -->1 the lateral one's treat as shadow edge and assigned with zeros.Similarly traversed from top to bottom and from bottom to top. In below figure we can observe that shadow part has been removed completely. 
 
 ![Screenshot (13)](https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/blob/main/Images/Screenshot%20(13).png)
 # Tracking
