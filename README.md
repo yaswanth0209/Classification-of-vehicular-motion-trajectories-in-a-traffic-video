@@ -49,6 +49,7 @@ https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-
 
 The above video show's the tracking of each vehicle with different numbering.
 
+
 https://github.com/yaswanth0209/Classification-of-vehicular-motion-trajectories-in-a-traffic-video/assets/143112500/09e5530a-c849-4972-acad-6d09eb6ea69e
 In this above video each vehicles centroid has been marked with different colour and has been tracked for all existing frames.
 
